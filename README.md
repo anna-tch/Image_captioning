@@ -16,7 +16,5 @@ BLEU-1: 0.896737<br>
 BLEU-2: 0.835396<br>
 BLEU-3: 0.790778<br>
 BLEU-4: 0.728581</p>
-<blockquote>
-<p><em>Bits of code were inspired from <a href="https://github.com/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb"</a></em></p>
-</blockquote>
+
 
