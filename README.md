@@ -16,5 +16,7 @@ BLEU-1: 0.896737<br>
 BLEU-2: 0.835396<br>
 BLEU-3: 0.790778<br>
 BLEU-4: 0.728581</p>
-
+<blockquote>
+<p><em>Credits for the encode-decoder model to <a href="https://github.com/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb">https://github.com/tensorflow/docs/blob/master/site/en/tutorials/text/image_captioning.ipynb</a> , data augmentation part (completed soon) is inspired from the paper - <a href="https://thesai.org/Downloads/Volume10No10/Paper_74-Data_Augmentation_to_Stabilize_Image_Caption_Generation_Models.pdf">https://thesai.org/Downloads/Volume10No10/Paper_74-Data_Augmentation_to_Stabilize_Image_Caption_Generation_Models.pdf</a></em></p>
+</blockquote>
 
